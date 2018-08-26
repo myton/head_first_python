@@ -1,0 +1,3 @@
+##Python排序有两种
+* 原地排序(In-place sorting): 如sort函数
+* 复制排序(Copied sorting): sorted 函数
